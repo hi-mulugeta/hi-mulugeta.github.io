@@ -72,9 +72,20 @@ sudo chown -R $(whoami) ~/.npm
 export LANG=en_US.UTF-8
 ```
 
+Here's a fun video:
+
+{% include embed/youtube.html id="fX8d3SgdTbo" %}
+
+Isn't that great?
 
 
 
+
+Here's a fun bilibili video:
+
+{% include embed/bilibili.html id="2117650" %}
+
+Isn't that great?
 
 
 
