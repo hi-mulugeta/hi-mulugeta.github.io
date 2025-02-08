@@ -1,0 +1,5 @@
+/* Hide the theme attribution */
+.copyright a[href*='chirpy'],
+.copyright a[href*='jekyllrb.com'] {
+  display: none !important;
+}
