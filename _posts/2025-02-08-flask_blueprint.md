@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flask API Blueprints
+published: false
 date: 08-02-2025
 categories: [notes]
 tags: [python,api,flask,tech]
