@@ -166,8 +166,8 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ### Default (with caption)
 
-![Desktop View](/assets/img/mockk-tech.jpg){: width="972" height="589" }
-_Full screen width and center alignment_(success/x-sin/mark)
+![Desktop View](/assets/img/mock-tech.jpg){: width="972" height="589" }
+_Full screen width and center alignment(lit there be light)_
 
 ### Left aligned
 
