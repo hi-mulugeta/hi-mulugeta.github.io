@@ -3,6 +3,8 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+lang: en
+
 display_theme_attribution:
   false
 
@@ -11,8 +13,6 @@ incremental: true
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
-
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Africa/Addis_Ababa
 
@@ -93,7 +93,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: #[light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
