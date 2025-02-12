@@ -4,7 +4,6 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 date: 08-02-2025
 categories: [Blogging, documentaion]
 tags: [typography]
-pin: true
 math: true
 mermaid: true
 image:
