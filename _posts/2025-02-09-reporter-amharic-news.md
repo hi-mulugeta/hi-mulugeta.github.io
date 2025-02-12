@@ -1,7 +1,7 @@
 ---
 layout: post
 title: የተሰደዱ ፖለቲከኞችን ከመንግሥት ጋር እንዲነጋገሩ ለማድረግ ጥረት መጀመሩ ተነገረ
-published: true
+published: false
 date: 09-02-2025
 categories: [News]
 tags: [Reporter,News]
