@@ -3,6 +3,7 @@ layout: post
 title: Flask API Blueprints
 published: true
 date: 08-02-2025
+pin: true
 categories: [notes]
 tags: [python,api,flask,tech]
 image:
